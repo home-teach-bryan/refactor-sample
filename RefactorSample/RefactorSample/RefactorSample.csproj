@@ -8,9 +8,19 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="DealingWithGeneralization\PullUpField\" />
+      <Folder Include="DealingWithGeneralization\PullUpMethod\" />
+      <Folder Include="DealingWithGeneralization\PushDownField\" />
+      <Folder Include="DealingWithGeneralization\PushDownMethod\" />
+      <Folder Include="DealingWithGeneralization\ReplaceDelegationWithInheritance\" />
+      <Folder Include="DealingWithGeneralization\ReplaceInheritanceWithDelegation\" />
       <Folder Include="MovingFeaturesBetweenObjects\MoveField\" />
       <Folder Include="MovingFeaturesBetweenObjects\MoveMethod\" />
       <Folder Include="OrganizingData\DuplicateObservedData\" />
+      <Folder Include="SimplifyingMethodCalls\AddParameter\" />
+      <Folder Include="SimplifyingMethodCalls\HideMethod\" />
+      <Folder Include="SimplifyingMethodCalls\RemoveParameter\" />
+      <Folder Include="SimplifyingMethodCalls\RenameMethod\" />
     </ItemGroup>
 
 </Project>
